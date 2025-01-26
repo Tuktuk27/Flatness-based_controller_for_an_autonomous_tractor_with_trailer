@@ -1,10 +1,32 @@
 # Flatness-based_controller_for_an_autonomous_tractor_with_trailer
 
-<img width="768" alt="image" src="https://github.com/user-attachments/assets/2e3452c1-a554-45ce-8f32-46c97ea5de82" />
+# Introduction to Flatness Theory
 
-<img width="710" alt="image" src="https://github.com/user-attachments/assets/d6f9e923-0e53-48a7-9761-94d5376e464e" />
+<img width="725" alt="image" src="https://github.com/user-attachments/assets/874010a3-3b62-4d70-8f0e-e635bd8f8179" />
 
-<img width="709" alt="image" src="https://github.com/user-attachments/assets/9f7e69e3-12c9-46d4-8769-ce1293f4dd96" />
+# Tractor with a trailer
+
+<img width="694" alt="image" src="https://github.com/user-attachments/assets/524d5226-9c87-47cc-871e-0ffdf2c5fe11" />
+
+# Proof that the system is Flat
+
+<img width="707" alt="image" src="https://github.com/user-attachments/assets/9d3f3d0e-30d6-4f60-96bf-778b6401216f" />
+
+# Deriving the control input
+
+<img width="724" alt="image" src="https://github.com/user-attachments/assets/16ab46e4-6f38-45d0-9648-b78340fdda2c" />
+
+# System implementation in Simulink
+
+
+<img width="624" alt="image" src="https://github.com/user-attachments/assets/40067e0d-946f-4886-90be-5bbbe19b870e" />
+
+# Results
+
+
+<img width="1048" alt="image" src="https://github.com/user-attachments/assets/0d3a84ba-9816-4444-93b5-8a22331e555f" />
+
+
 
 <img width="764" alt="image" src="https://github.com/user-attachments/assets/e5fb3b36-d766-44cb-b04c-f3869f6675f2" />
 
